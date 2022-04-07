@@ -8,7 +8,7 @@
 |------------------------------------------------------|--------------------------------------------------------------|
 |UNIVESP - Projeto Integrador 2022 |Projeto Integrador 2022 - Atibaia/SP – PJI240 – Turma - 001 - Criação de site com o objetivo de divulgação da marca e contatos da empresa, bem como criação de sistema de agendamento de tratamentos de beleza.|  
 
-## Integrantes:
+### Integrantes:
 
 |Nome                      |Matricula|
 |--------------------------|---------|
@@ -19,3 +19,36 @@
 |Patrícia Nakazawa Siqueira|2002280  |
 |Rodolfo Pinheiro          |2001076  |
 
+### Instalando o GIT Bash:
+
+https://www.youtube.com/watch?v=2y5JGW6nZRs
+
+### GIT comandos basicos:
+
+* Baixando o Repositório do GIT
+
+``` # git clone https://github.com/jeancarloviana/projeto_integrador_univesp_2022.git ```
+
+* Adicionando arquivos:
+
+``` 
+  # git add --all (para adicionar todos os arquivos --cuidado--)
+                                ou
+  # git add "nome do arquivo"
+```
+
+* Comicionando o arquivo:
+
+```# git commit - m "colocar observação ex. reame_jean_07-04-2022"```
+
+* Subindo arquivos:
+
+```# git push origin master```
+
+* Verificando status:
+
+```# git status```
+
+* Atualizando o repositório da sua máquina:
+
+```# git pull origin master```
