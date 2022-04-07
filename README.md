@@ -10,12 +10,12 @@
 
 ## Integrantes:
 
-|Nome                       |Matricula|
-|---------------------------|---------|
-| Danilo Mistrinel|         |1710405  |
-| Guilherme de Almeida Viana|2009697  |
-| Jean Carlo Viana          |2004011  |
-| Jonathan Roberto          |2006260  |
-| Patrícia Nakazawa Siqueira|2002280  |
-| Rodolfo Pinheiro          |2001076  |
+|Nome                      |Matricula|
+|--------------------------|---------|
+|Danilo Mistrinel          |1710405  |
+|Guilherme de Almeida Viana|2009697  |
+|Jean Carlo Viana          |2004011  |
+|Jonathan Roberto          |2006260  |
+|Patrícia Nakazawa Siqueira|2002280  |
+|Rodolfo Pinheiro          |2001076  |
 
