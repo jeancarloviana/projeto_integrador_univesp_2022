@@ -32,9 +32,9 @@ https://www.youtube.com/watch?v=2y5JGW6nZRs
 * Adicionando arquivos:
 
 ``` 
-  # git add --all (para adicionar todos os arquivos --cuidado--)
-                                ou
-  # git add "nome do arquivo"
+# git add --all (para adicionar todos os arquivos --cuidado--)
+                            ou
+# git add "nome do arquivo"
 ```
 
 * Comicionando o arquivo:
