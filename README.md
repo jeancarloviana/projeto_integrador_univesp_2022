@@ -1,6 +1,6 @@
 <div align="center">
 
-![](projeto_integrador_univesp_2022\Documentos_Projeto_Int_II\Projeto_Teórico\Padrões\Univesp_logo_png_rgb.png)
+![](projeto_integrador_univesp_2022\Documentos_Projeto_Int_II\Projeto_Teórico\Padrões\univesp_logo.png)
 
 </div> 
 
