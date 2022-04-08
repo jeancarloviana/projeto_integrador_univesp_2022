@@ -6,7 +6,7 @@
 
 |**Tema:**                                             |**Resumo:**                                                   |
 |------------------------------------------------------|--------------------------------------------------------------|
-|UNIVESP - Projeto Integrador 2022 |Projeto Integrador 2022 - Atibaia/SP – PJI240 – Turma - 001 - Criação de site com o objetivo de divulgação da marca e contatos da empresa, bem como criação de sistema de agendamento de tratamentos de beleza.|  
+|UNIVESP - Projeto Integrador 2022 |Projeto Integrador 2022 - Atibaia/SP – PJI240 – Turma - 001<br>Criação de site com o objetivo de divulgação da marca e contatos da empresa, bem como criação de sistema de agendamento de tratamentos de beleza.|  
 
 ### Integrantes:
 
